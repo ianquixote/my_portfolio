@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import ThemeSwitch from "theme_switch";
+import ThemeSwitch from "./theme_switch";
 
 const Navigation = () => {
     return (
